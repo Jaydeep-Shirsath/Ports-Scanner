@@ -18,4 +18,4 @@ echo -e "${blue}Created by HackTheHacker${reset}"
 echo -e "${blue}https://youtube.com/@js44${reset}"
 
 read -p "Enter IP address: " IP
-nmap -A $IP -p- -v -sV -Pn --open 2>/dev/null
+nmap -T4 -A $IP -p- -v -sV -Pn --open 2>/dev/null
