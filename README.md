@@ -31,7 +31,7 @@ Instead of running slow scans that waste valuable lab time, this script splits h
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com](https://github.com/Jaydeep-Shirsath/Ports-Scanner/
+git clone https://github.com/Jaydeep-Shirsath/Ports-Scanner/
 cd Ports-Scanner
 ```
 
