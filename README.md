@@ -24,9 +24,8 @@ Instead of running slow scans that waste valuable lab time, this script splits h
 
 .
 ├── scan.sh # Core interactive script managing fast scanning, port summaries, and targeted Nmap modes
-
 └── setup.sh # Installation engine handling dependency verifications and global /usr/bin/ linkage
-
+.
 ## ⚡ Quick Start
 
 ### 1. Clone the repository
